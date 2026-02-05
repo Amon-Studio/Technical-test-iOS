@@ -69,11 +69,11 @@ Send `[DELETE]` as the message content to clear your conversation history and st
 }
 ```
 
-# Share your work
+# Instructions
 
 Please **DO NOT** make it public and follow these steps:
 
-## 1 - Fork the code in a private repository
+## 1 - Setup
 
 You have to fork the current repository in your own github account as a **private** repository.
 
@@ -89,14 +89,11 @@ You can clone this new repository and push into it.
 
 Code, commit and push into this new repository.
 
-## 3 - Add collaborators to your new repository
-
-**WHEN YOU ARE READY** and want us to review your code:
+## 3 - Release
 
 Add these reviewers as collaborators to your repository:
-
 - gautier-gdx
 
-Finally, don’t forget to submit your **GitHub URL** AND **a screen recording of 1min max** containing your final solution, in the email you received about the case study.
+Submit your **GitHub URL** AND **a screen recording of 1min max** containing your final solution, in reply to the email of the case study.
 
 From this stage, we consider you have finished the task!
