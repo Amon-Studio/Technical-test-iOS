@@ -4,7 +4,7 @@ Build the chat experience for Mira, an AI companion.
 
 Copy the exact same experience you see on [this screen recording](https://github.com/user-attachments/assets/25cc1fb7-4a5e-4353-ba9a-271cff15cab9)
 
-Obsess over the details, every frame satisfies 60 fps minimum, zero visual glitches, pixel-perfect spacing, we'll slow your screen recording down to 0.25× to review.
+Obsess over the details, zero visual glitches, pixel-perfect spacing, we'll slow your screen recording down to 0.25× to review.
 
 Mira should feel present, responsive, and alive, the kind of chat where you quickly forget you’re talking to a machine.
 
