@@ -1,15 +1,20 @@
-# Technical-test-iOS
+# Mission
 
+Build the chat experience for Mira, an AI companion.
 
+Copy the exact same experience you see on this screen
 
+Mira should feel present, responsive, and alive, the kind of chat where you quickly forget you’re talking to a machine.
 
-## Endpoint
+**BONUS**: Do you know that Mira can react to your messages? :wink:
+
+# Endpoint
 
 `POST https://staging---main-n7cgsmed7q-uc.a.run.app/ai/technical-test`
 
 Send messages to the AI assistant and get responses back. Each `userID` gets its own isolated conversation session.
 
-### Request Body
+## Request Body
 
 ```json
 {
@@ -23,7 +28,7 @@ Send messages to the AI assistant and get responses back. Each `userID` gets its
 }
 ```
 
-### Response
+## Response
 
 ```json
 {
@@ -51,7 +56,7 @@ Send messages to the AI assistant and get responses back. Each `userID` gets its
 }
 ```
 
-### Reset Session
+## Reset Session
 
 Send `[DELETE]` as the message content to clear your conversation history and start fresh.
 
@@ -61,3 +66,44 @@ Send `[DELETE]` as the message content to clear your conversation history and st
   "messages": [{ "content": "[DELETE]" }]
 }
 ```
+
+# Share your work
+
+You want to share your work to us so we can review it.
+
+Please **DO NOT** make it public and follow these steps:
+
+## 1 - Fork the code in a private repository
+
+You have to fork the current repository in your own github account as a **private** repository.
+
+You can achieve this by using the `import` feature of github and use these values:
+
+- **url**:`https://github.com/Amon-Studio/Technical-test-iOS.git`
+- **repository name**: amon-technical-test-<your_github_nickname>
+- **private**: true
+
+## 2 - Clone your new repository
+
+You can clone this new repository and push into it.
+
+## 3 - Code ✍️
+
+You can code, commit and push into this new repository.
+
+## 4 - Add collaborators to your new repository
+
+**WHEN YOU ARE READY** and want us to review your code:
+
+You have to add these reviewers as collaborators to your repository:
+
+- gautier-gdx
+
+Finally, don’t forget to submit your **GitHub URL** AND **a screen recording of 1min max** containing your final solution, in the email you received about the case study.
+
+From this stage, we consider you have finished the task!
+
+## 5 - Chill & Wait
+
+Then it's us to reach you after the review is done.
+Just chill!
