@@ -2,7 +2,8 @@
 
 Build the chat experience for Mira, an AI companion.
 
-Copy the exact same experience you see on this screen
+Copy the exact same experience you see on [this screen recording](https://github.com/user-attachments/assets/25cc1fb7-4a5e-4353-ba9a-271cff15cab9)
+
 
 Mira should feel present, responsive, and alive, the kind of chat where you quickly forget you’re talking to a machine.
 
